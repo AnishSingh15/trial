@@ -326,14 +326,13 @@ footer ul {
     }
 }
 
-@media screen and (max-width: 1800px) {
+@media screen and (max-width: 1390px) {
     .cloud {
-        height: 75rem;
+        height: 80rem;
         width: 100%;
-    } 
-    
-    .moving-cloud-2 {
-        top: 8%;
+    }
+     .moving-cloud-2 {
+        top: 7.6%;
     }
 }
 
