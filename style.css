@@ -326,3 +326,9 @@ footer ul {
     }
 }
 
+@media screen and (max-width: 1800px) {
+     .moving-cloud-2 {
+        top: 8%;
+    }
+}
+
